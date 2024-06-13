@@ -9,12 +9,37 @@ Answer the following questions based on your understanding of the installation a
 
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
+    Open a Web Browser - Open your preferred web browser (e.g., Edge, Chrome, Firefox).
+    Download the VS Code file from the Official Website.(https://code.visualstudio.com/.)
+    Execute the download file.
+    Accept the Terms & Conditions.
+    Click on the Install button.
+    Wait for the installation to complete.
+    Click on the Launch button to start it.
+
+Prerequisites
+Operating System: Windows 11 (all editions)
+Administrator Access: You might need administrator access to install software on your machine.
+Internet Connection: Required to download the installer.
+   
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+1. Install Extensions:
+Open Visual Studio Code.
+Navigate to the Extensions view by clicking the Extensions icon in the Activity Bar on the side of the window or pressing Ctrl+Shift+X.
+Search for and install any extensions you need, such as language support, debuggers, and linters.
+2. Customize Settings:
+Open the Command Palette (Ctrl+Shift+P), then type Preferences: Open Settings to customize the editor settings to your liking.
+3. Sign in to Sync Settings:
+If you have a Microsoft or GitHub account, you can sign in to sync your settings across devices. Go to the gear icon in the lower-left corner, select "Turn on Settings Sync," and follow the prompts to sign in.
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
+   1. Activity Bar: Located on the far left side of the window. The purpose provides quick access to different views and features within VS Code.
+   2. Side Bar: Located at the right of the Activity Bar. The purpose is to displays the content of the selected view from the Activity Bar.
+   3. Editor Group: Located at the Central area of the window. The purpose: The main area where you write and edit code.
+   4. Status Bar: Located it's located at the bottom of the window. The Purpose is to displays information about the current state of the editor and workspace.
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
